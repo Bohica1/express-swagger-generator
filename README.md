@@ -22,6 +22,7 @@ let options = {
         },
         host: 'localhost:3000',
         basePath: '/v1',
+	filePath: '../../../api/public/doc.json,
         produces: [
             "application/json",
             "application/xml"
